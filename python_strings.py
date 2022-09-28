@@ -29,8 +29,7 @@ print(my_last_name)
 print(my_first_name[0])
 print(my_last_name[-4])
 print(my_first_name[:1])
-print(my_last_name[-4:-3])
-
+print(my_last_name[-2:])
 
 
 #TODO Combining Strings
